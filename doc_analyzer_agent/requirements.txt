@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+markdownify
+google-generativeai
+python-dotenv
+playwright
